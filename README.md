@@ -1,7 +1,7 @@
 # YOUR-POC
 YOUR POC
 
-![](https://img.shields.io/badge/just-MyCode-brightgreen)
+![](https://img.shields.io/badge/YOUR-POC-brightgreen)
 ![](https://img.shields.io/badge/language-python-brightgreen)
 ![](https://img.shields.io/badge/license-czheisenberg-brightgreen)
 ![](https://img.shields.io/badge/documentation-yes-brightgreen)
